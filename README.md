@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sripathi69
-- 👀 I’m interested in software development
-- 🌱 I’m currently refreshing my programming skills and updating my full stack development skills
-- 💞️ I’m looking to collaborate on software development
+- 👀 I’m interested in collaborative software development
+- 🌱 I use full stack AI development tools to develop software from concept to product
+- 💞️
 - 📫 My mobile +91 7799866698, is whatsapp enabled
 
 <!---
