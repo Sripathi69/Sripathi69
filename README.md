@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sripathi69
 - 👀 I’m interested in collaborative software development
 - 🌱 I use full stack AI development tools to develop software from concept to product
-- 💞️
-- 📫 My mobile +91 7799866698, is whatsapp enabled
+
 
 <!---
 Sripathi69/Sripathi69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
